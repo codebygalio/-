@@ -1,3 +1,5 @@
+// <quill-editor v-model="content" :isdisabled="disabled"/>
+// 使用案例
 <template>
     <div>
         <quill-editor 
